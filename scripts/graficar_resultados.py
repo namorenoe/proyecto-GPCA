@@ -14,5 +14,5 @@ def graficar_resultados(df):
     plt.xlabel('Valor')
     plt.ylabel('Frecuencia')
     plt.legend()
-    plt.savefig('resultados/grafico_resultados.png')
+    plt.savefig('results/figures/grafico_resultados.png')
     plt.close()

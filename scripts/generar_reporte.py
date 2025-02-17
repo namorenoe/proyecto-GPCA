@@ -6,4 +6,4 @@ import os
 # Funcion para convertir a tablar los datos 
 # Param: df (data frame)
 def generar_reporte(df):
-    df.to_csv('results/tabla_resultados.csv', index=False)
+    df.to_csv('results/tables/tabla_resultados.csv', index=False)
