@@ -1,0 +1,31 @@
+# Archivos temporales de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos temporales de Windows
+desktop.ini
+Thumbs.db
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de logs y bases de datos
+*.log
+*.sqlite3
+
+# Archivos de distribución y paquetes
+*.egg-info/
+dist/
+build/
